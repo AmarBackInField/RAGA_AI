@@ -1,0 +1,46 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.10
+langchain-openai>=0.0.5
+langgraph>=0.0.20  # For workflow graph
+faiss-cpu>=1.7.4  # For vector store
+
+
+SpeechRecognition>=3.10.0  # For speech recognition
+
+# Web scraping and search
+beautifulsoup4>=4.12.0
+duckduckgo-search>=4.1.1
+lxml>=4.9.0  # Required for better HTML parsing with bs4
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.24.0
+yfinance>=0.2.36
+
+# PDF processing
+pypdf>=3.17.0
+pdfplumber>=0.10.3
+
+# Web Interface
+streamlit>=1.31.0
+
+# OpenAI and AI
+openai>=1.12.0  # For OpenAI API
+tiktoken>=0.5.2  # For token counting
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.1
+requests>=2.31.0
+typing-extensions>=4.9.0  # For TypedDict and Literal
+pydantic>=2.6.1  # For data validation
+
+# Speech Processing
+pyttsx3>=2.90  # For text-to-speech
+
+
+
+
+
