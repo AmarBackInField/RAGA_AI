@@ -4,11 +4,10 @@ A powerful Retrieval-Augmented Generation (RAG) AI Assistant that can process an
 
 ## Demo
 
-![Screenshot 2025-05-29 110700](https://github.com/user-attachments/assets/f4dd90fc-2086-40f7-b613-9b2216b67eda)
+![Screenshot 2025-05-29 105944](https://github.com/user-attachments/assets/496943a5-67a9-41d4-8c4f-31437c105a9c)
+![Screenshot 2025-05-29 110700](https://github.com/user-attachments/assets/ae0e0775-4152-4c70-bfbb-c15bff4a83dd)
+![Screenshot 2025-05-29 105900](https://github.com/user-attachments/assets/f2eb3ed6-666d-4950-8b49-cf67c1d8cf18)
 
-![Screenshot 2025-05-29 105900](https://github.com/user-attachments/assets/c5aa7466-aa1e-4d43-94ed-f5e174f63a66)
-
-![Screenshot 2025-05-29 105944](https://github.com/user-attachments/assets/d2dfbbc9-7eac-4bed-8c2e-77d85bbdeabc)
 
 
 
@@ -33,7 +32,8 @@ A powerful Retrieval-Augmented Generation (RAG) AI Assistant that can process an
 
 ## Archietecture
 
-![image](https://github.com/user-attachments/assets/1450a96b-9174-4c3d-956c-18ad8fcedde9)
+![Screenshot 2025-05-29 113234](https://github.com/user-attachments/assets/bbf0213d-2788-40ca-9b54-580b002c7294)
+
 
 
 ## 🚀 Getting Started
@@ -120,14 +120,16 @@ RagaAI/
 
 
 ### Testing
-Run tests using pytest:
-```bash
-pytest
-```
 
-## 📝 License
+# For Text to speech : (pyttsx3 module is used which is not workable in deployment)
+![Screenshot 2025-05-29 153534](https://github.com/user-attachments/assets/c4260e24-fb2f-4cea-a032-7043442028d6)
+![Screenshot 2025-05-29 153555](https://github.com/user-attachments/assets/092ed1bd-dd4a-42ec-bbdf-fc476728d4e7)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📝 Future Improvements:
+- Using Microsoft Azure Speech Service
+- Instead of Finance API we can use Newyork Times API or Economics Time API
+
 
 ## 🤝 Contributing
 
